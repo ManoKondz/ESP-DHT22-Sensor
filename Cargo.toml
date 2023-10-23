@@ -1,0 +1,19 @@
+[package]
+name = "SensorDHT22"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+esp32-hal = "0.10.0"
+esp-backtrace = { version = "0.6.0", features = [
+    "esp32",
+    "panic-handler",
+    "print-uart",
+] }
+esp-println = { version = "0.4.0", features = ["esp32"] }
+xtensa-lx-rt = { version = "0.15.0", features = ["esp32"], optional = true }
+dht-sensor = "0.2.1"
+
+[features]
+default = ["rt"]
+rt = ["xtensa-lx-rt"]

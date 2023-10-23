@@ -1,0 +1,14 @@
+/home/nash/Documents/My Projects/Rust/SensorDHT22/target/debug/deps/clang_sys-6ca58d38ca4653e3.rmeta: /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/macros.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/common.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/dynamic.rs
+
+/home/nash/Documents/My Projects/Rust/SensorDHT22/target/debug/deps/libclang_sys-6ca58d38ca4653e3.rlib: /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/macros.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/common.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/dynamic.rs
+
+/home/nash/Documents/My Projects/Rust/SensorDHT22/target/debug/deps/clang_sys-6ca58d38ca4653e3.d: /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/macros.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/common.rs /home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/dynamic.rs
+
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/lib.rs:
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/support.rs:
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.6.1/src/link.rs:
+/home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/macros.rs:
+/home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/common.rs:
+/home/nash/Documents/My\ Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/nash/Documents/My Projects/Rust/SensorDHT22/target/debug/build/clang-sys-d7a53e64a3df4ac0/out

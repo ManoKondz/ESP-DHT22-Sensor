@@ -1,0 +1,24 @@
+
+"version": 1,
+"author": "Sergio Gasquez Arcos",
+"editor": "wokwi",
+"parts": [
+  {
+    "type": "wokwi-esp32-devkit-v1",
+    "id": "esp",
+    "top": 4.7,
+    "left": 4.6,
+    "attrs": { "builder": "rust-nostd-esp" }
+  },
+  { "type": "wokwi-dht22", "id": "dht2", "top": -125.61, "left": 249.11, "attrs": {} }
+],
+"connections": [
+  [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+  [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+  [ "esp:D23", "dht2:SDA", "green", [ "h0" ] ],
+  [ "dht2:VCC", "esp:3V3", "red", [ "v0" ] ],
+  [ "dht2:GND", "esp:GND.1", "black", [ "v0" ] ]
+],
+"serialMonitor": { "display": "terminal" },
+"dependencies": {}
+}

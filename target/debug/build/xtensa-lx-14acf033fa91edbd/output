@@ -1,0 +1,1 @@
+cargo:rustc-link-search=/home/nash/Documents/My Projects/Rust/SensorDHT22/target/debug/build/xtensa-lx-14acf033fa91edbd/out

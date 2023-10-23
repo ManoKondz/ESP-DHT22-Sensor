@@ -1,0 +1,9 @@
+/home/nash/Documents/My Projects/Rust/SensorDHT22/target/debug/build/xtensa-lx-rt-31822716b026cf45/build_script_build-31822716b026cf45: /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/build.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/xtensa.in.x /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/exception-esp8266.x /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/interrupt_level_masks.rs.jinja /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/exception-esp32.x.jinja
+
+/home/nash/Documents/My Projects/Rust/SensorDHT22/target/debug/build/xtensa-lx-rt-31822716b026cf45/build_script_build-31822716b026cf45.d: /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/build.rs /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/xtensa.in.x /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/exception-esp8266.x /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/interrupt_level_masks.rs.jinja /home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/exception-esp32.x.jinja
+
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/build.rs:
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/xtensa.in.x:
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/exception-esp8266.x:
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/interrupt_level_masks.rs.jinja:
+/home/nash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xtensa-lx-rt-0.15.0/exception-esp32.x.jinja:

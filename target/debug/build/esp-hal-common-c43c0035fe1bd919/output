@@ -1,0 +1,15 @@
+cargo:rustc-cfg=esp32
+cargo:rustc-cfg=xtensa
+cargo:rustc-cfg=mcpwm
+cargo:rustc-cfg=multi_core
+cargo:rustc-cfg=dac
+cargo:rustc-cfg=i2c1
+cargo:rustc-cfg=i2s
+cargo:rustc-cfg=pdma
+cargo:rustc-cfg=rmt
+cargo:rustc-cfg=spi3
+cargo:rustc-cfg=timg0
+cargo:rustc-cfg=timg1
+cargo:rustc-cfg=uart2
+cargo:rustc-cfg=aes
+cargo:rustc-cfg=radio
